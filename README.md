@@ -43,7 +43,7 @@ Beginilah hak akses yang dimiliki role.
 
 Pengguna yang memiliki akun yaitu pengguna yang memiliki role admin dapat login dengan cara memasukkan email dan password yang telah didaftarkan.
 
-<img src="/ss/login.png" height="400">
+<img src="/ss/login.png" height="380">
 
 ### 2. Register
 
@@ -54,7 +54,7 @@ Memilih menu register dapat dilakukan dengan meng-klik menu register pada naviga
 Pada menu register, pengguna dapat mendaftarkan email dan password untuk admin baru. Tetapi yang dapat melakukan register hanyalah admin yang sudah ada.
 Saat memilih menu register, maka admin sebelumnya otomatis akan logout.
 
-<img src="/ss/register2.png" height="400">
+<img src="/ss/register2.png" height="380">
 
 Password yang dimasukkan minimal 8 karakter.
 Setelah menekan tombol register maka akan otomatis login dengan akun yang baru didaftarkan
@@ -71,7 +71,7 @@ Logout dapat dilakukan dengan mengklik drop down menu di kanan atas, Maka akan l
 
 Pada halaman utama, ditampilkan beberapa cover koleksi buku kami, dan ada tombol untuk lihat lebih yang mana akan diarahkan ke halaman daftar buku
 
-<img src="/ss/read_guest.png" height="400">
+<img src="/ss/read_guest.png" height="380">
 
 Halaman daftar buku
 
@@ -82,15 +82,14 @@ Halaman daftar buku
 Pada halaman utama, sama seperti guest, admin juga disajikan cover dari beberapa koleksi buku kami. Lalu admin dapat melihat daftar buku dengan meng-
 klik gambar lihat lebih
 
-<img src="/ss/read_admin.png" height="400">
+<img src="/ss/read_admin.png" height="380">
 
 Di halaman ini, admin dapat memilih untuk menambah data, ataupun aksi lain terhadap buku
 
-<img src="/ss/read_admin2.png" height="400">
+<img src="/ss/read_admin2.png" height="380">
 
 ### 5. Mengubah, menambah, menghapus dan melihat detail data
 
 Aksi tersebut dapat dilakukan dengan memilih tombol di buku yang dipilih (untuk admin)
 
-<img src="/ss/crud_admin.png" height="350">
-
+<img src="/ss/crud_admin.png" height="250">
