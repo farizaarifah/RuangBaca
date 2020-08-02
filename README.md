@@ -20,7 +20,6 @@ Admin dapat mengubah, menambah, menghapus dan melihat daftar buku. Sedangkan use
 2. CSS
 3. PHP
 4. Laravel Framework
-5. 
 
 ## Role
 
@@ -44,18 +43,18 @@ Beginilah hak akses yang dimiliki role.
 
 Pengguna yang memiliki akun yaitu pengguna yang memiliki role admin dapat login dengan cara memasukkan email dan password yang telah didaftarkan.
 
-<img src="/ss/splash_screen.jpg" width="270" height="585">
+<img src="/ss/login.png" height="400">
 
 ### 2. Register
 
 Memilih menu register dapat dilakukan dengan meng-klik menu register pada navigation bar.
 
-<img src="/ss/splash_screen.jpg" width="270" height="585">
+<img src="/ss/register.png">
 
 Pada menu register, pengguna dapat mendaftarkan email dan password untuk admin baru. Tetapi yang dapat melakukan register hanyalah admin yang sudah ada.
 Saat memilih menu register, maka admin sebelumnya otomatis akan logout.
 
-<img src="/ss/splash_screen.jpg" width="270" height="585">
+<img src="/ss/register2.png" height="400">
 
 Password yang dimasukkan minimal 8 karakter.
 Setelah menekan tombol register maka akan otomatis login dengan akun yang baru didaftarkan
@@ -64,8 +63,34 @@ Setelah menekan tombol register maka akan otomatis login dengan akun yang baru d
 
 Logout dapat dilakukan dengan mengklik drop down menu di kanan atas, Maka akan langsung keluar dari sesi login si admin.
 
-<img src="/app/ss/home_kosong.jpg" width="270" height="585">
+<img src="/ss/logout.png">
 
-### 4. Read
+### 4. Melihat koleksi buku
 
-<img src="/app/ss/profile_edit.jpg" width="270" height="585"> <img src="/app/ss/profile_after_edit.jpg" width="270" height="585">
+**Role guest.**
+
+Pada halaman utama, ditampilkan beberapa cover koleksi buku kami, dan ada tombol untuk lihat lebih yang mana akan diarahkan ke halaman daftar buku
+
+<img src="/ss/read_guest.png" height="400">
+
+Halaman daftar buku
+
+<img src="/ss/read_guest2.png" height="300">
+
+**Role Admin**
+
+Pada halaman utama, sama seperti guest, admin juga disajikan cover dari beberapa koleksi buku kami. Lalu admin dapat melihat daftar buku dengan meng-
+klik gambar lihat lebih
+
+<img src="/ss/read_admin.png" height="400">
+
+Di halaman ini, admin dapat memilih untuk menambah data, ataupun aksi lain terhadap buku
+
+<img src="/ss/read_admin2.png" height="400">
+
+### 5. Mengubah, menambah, menghapus dan melihat detail data
+
+Aksi tersebut dapat dilakukan dengan memilih tombol di buku yang dipilih (untuk admin)
+
+<img src="/ss/crud_admin.png" height="350">
+
