@@ -66,6 +66,6 @@ Logout dapat dilakukan dengan mengklik drop down menu di kanan atas, Maka akan l
 
 <img src="/app/ss/home_kosong.jpg" width="270" height="585">
 
-### 3. Logout
+### 4. Read
 
 <img src="/app/ss/profile_edit.jpg" width="270" height="585"> <img src="/app/ss/profile_after_edit.jpg" width="270" height="585">
